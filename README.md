@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Yebun%20Park&section=header&textBg=false&fontColor=FFF)
 <div align="center">
   
+## Hello, I am Yebun Park, a junior full-stack developer!
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  
 ### 🌼  T e c h  🌼
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
