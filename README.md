@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Yebun%20Park&section=header&textBg=false&fontColor=FFF)
+<br>
+<br>
+<br>
 <div align="center">
   
 ## Hello, I am Yebun Park, a junior full-stack developer!
-<br>
-<br>
 <br>
 <br>
 <br>
